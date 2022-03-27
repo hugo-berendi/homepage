@@ -16,7 +16,7 @@ const SkillBox = styled.span`
 
 const Skill = ({ src, alt, skillName, href }) => {
     return (
-        <a href={href} target="_blank">
+        <a href={href} target="_blank" rel="noreferrer">
             <SkillBox>
                 <Image src={src} alt={alt} width={30} height={25} />
                 <Text>{ skillName }</Text>    

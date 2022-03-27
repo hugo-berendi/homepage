@@ -17,7 +17,7 @@ const SkillBox = styled.span`
 
 const BoxSkill = ({ src, alt, skillName, href, h }) => {
     return (
-        <a href={href} target="_blank">
+        <a href={href} target="_blank" rel="noreferrer">
             <SkillBox borderColor={useColorModeValue('#202023', '#f0e7db')}>
                 <Image src={src} alt={alt} width={60} height={h} />
                 <Text marginRight={10}>{ skillName }</Text>    

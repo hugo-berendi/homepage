@@ -29,19 +29,19 @@ const Skills = () => (
       <SimpleGrid columns={[1, 1, 2]} gap={6} marginBottom={10}>
         <BoxSkill h={50} src={vuejs} alt='vuejs' skillName='Vue.JS' href='https://vuejs.org/' />
         <BoxSkill h={50} src={reactjs} alt='reactjs' skillName='React.JS' href='https://vuejs.org/' />
-        <BoxSkill h={65} src={csharp} alt='c#' skillName='C#' href='https://vuejs.org/' />
-        <BoxSkill h={55} src={css3} alt='css3' skillName='CSS3' href='https://vuejs.org/' />
-        <BoxSkill h={55} src={html5} alt='html5' skillName='HTML5' href='https://vuejs.org/' />
-        <BoxSkill h={55} src={js} alt='js' skillName='JavaScript' href='https://vuejs.org/' />
-        <BoxSkill h={60} src={dart} alt='dart' skillName='Dart' href='https://vuejs.org/' />
-        <BoxSkill h={60} src={flutter} alt='flutter' skillName='Flutter' href='https://vuejs.org/' />
-        <BoxSkill h={55} src={git} alt='git' skillName='Git' href='https://vuejs.org/' />
-        <BoxSkill h={55} src={java} alt='java' skillName='Java' href='https://vuejs.org/' />
-        <BoxSkill h={60} src={kotlin} alt='kotlin' skillName='Kotlin' href='https://vuejs.org/' />
-        <BoxSkill h={55} src={nodejs} alt='nodejs' skillName='Node.JS' href='https://vuejs.org/' />
-        <BoxSkill h={55} src={python} alt='python' skillName='Python' href='https://vuejs.org/' />
-        <BoxSkill h={60} src={pytorch} alt='pytorch' skillName='Pytorch' href='https://vuejs.org/' />
-        <BoxSkill h={55} src={swift} alt='swift' skillName='Swift' href='https://vuejs.org/' />
+        <BoxSkill h={65} src={csharp} alt='c#' skillName='C#' href='https://en.wikipedia.org/wiki/C_Sharp_(programming_language)' />
+        <BoxSkill h={55} src={css3} alt='css3' skillName='CSS3' href='https://en.wikipedia.org/wiki/CSS' />
+        <BoxSkill h={55} src={html5} alt='html5' skillName='HTML5' href='https://en.wikipedia.org/wiki/HTML' />
+        <BoxSkill h={55} src={js} alt='js' skillName='JavaScript' href='https://en.wikipedia.org/wiki/JavaScript' />
+        <BoxSkill h={60} src={dart} alt='dart' skillName='Dart' href='https://en.wikipedia.org/wiki/Dart_(programming_language)' />
+        <BoxSkill h={60} src={flutter} alt='flutter' skillName='Flutter' href='https://flutter.dev/' />
+        <BoxSkill h={55} src={git} alt='git' skillName='Git' href='https://git-scm.com/' />
+        <BoxSkill h={55} src={java} alt='java' skillName='Java' href='https://www.java.com/' />
+        <BoxSkill h={60} src={kotlin} alt='kotlin' skillName='Kotlin' href='https://kotlinlang.org/' />
+        <BoxSkill h={55} src={nodejs} alt='nodejs' skillName='Node.JS' href='https://nodejs.org/' />
+        <BoxSkill h={55} src={python} alt='python' skillName='Python' href='https://www.python.org/' />
+        <BoxSkill h={60} src={pytorch} alt='pytorch' skillName='Pytorch' href='https://pytorch.org/' />
+        <BoxSkill h={55} src={swift} alt='swift' skillName='Swift' href='https://developer.apple.com/swift/' />
       </SimpleGrid>
     </Container>
   </Layout>

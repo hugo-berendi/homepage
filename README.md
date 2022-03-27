@@ -1,6 +1,6 @@
 # LokiLP66's Homepage
 
-[https://www.lokilp66.dev/](https://www.lokilp66.dev/)
+[https://www.lokilp66.dev/](https://http://212.227.190.237//)
 
 ## Stack
 

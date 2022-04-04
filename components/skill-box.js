@@ -11,8 +11,6 @@ const SkillBox = styled.span`
     float: left;
     width: 100%; 
     height: 100%;
-    border: 5px solid;
-    border-radius: var(--chakra-radii-md);
 `
 
 const BoxSkill = ({ src, alt, skillName, href, h }) => {

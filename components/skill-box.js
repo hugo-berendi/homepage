@@ -17,7 +17,7 @@ const BoxSkill = ({ src, alt, skillName, href, h }) => {
     return (
         <a href={href} target="_blank" rel="noreferrer">
             <SkillBox
-                bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
+                background={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
                 borderRadius="lg"
             >
                 <Image src={src} alt={alt} width={60} height={h} />

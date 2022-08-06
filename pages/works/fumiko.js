@@ -15,7 +15,7 @@ import {
     <Layout title="Fumiko">
       <Container>
         <head>
-            <meta http-equiv='refresh' content='0; URL=http://2.59.156.228/' />
+            <meta httpEquiv='refresh' content='0; URL=http://2.59.156.228/' />
         </head>
         <Title>
           Fumiko <Badge>2022-????</Badge>

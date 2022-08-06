@@ -1,11 +1,5 @@
 import {
     Container,
-    Badge,
-    List,
-    ListItem,
-    Heading,
-    Center,
-    Image
 } from '@chakra-ui/react'
 import Layout from '../../components/layouts/article'
 import { Title, Meta } from '../../components/work'

@@ -2,8 +2,6 @@ import {
     Container,
 } from '@chakra-ui/react'
 import Layout from '../../components/layouts/article'
-import { Title, Meta } from '../../components/work'
-import P from '../../components/paragraph'
 
 const Work = () => (
     <Layout title="Fumiko">

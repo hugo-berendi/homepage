@@ -15,8 +15,8 @@ const Works = () => (
 
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section delay={0.6}>
-          <WorkGridItem id="mue" thumbnail={thumbMue} title="Mue">
-            Mue is a free and open-source no copyright music player
+          <WorkGridItem id="fumiko" thumbnail={thumbMue} title="Fumiko">
+            Fumiko is a all in one discord bot!
           </WorkGridItem>
         </Section>
       </SimpleGrid>
